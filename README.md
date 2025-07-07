@@ -1,7 +1,7 @@
 # 👋 Hi, I'm xemarap!
 
 ## 👨‍💻 About Me
-I'm a Data Scientist at the Regional Development department at Region Stockholm, where I analyze data to support strategic planning and evidence-based decision making for regional growth and development. With a strong foundation in Python and R, I'm passionate about making data science more accessible through open-source tools and well-documented solutions.
+I'm a Data Scientist at the Regional Development department at Region Stockholm, where I build data pipelines and analyze data to support strategic planning and evidence-based decision making for regional growth and development. With a strong foundation in Python and R, I'm passionate about making data science more accessible through open-source tools and well-documented solutions.
 
 ## 🛠️ Tech Stack
 **Languages:** Python (primary) • R (proficient)  
