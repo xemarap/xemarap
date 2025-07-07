@@ -26,7 +26,7 @@ Unlock Swedish municipality insights with easy API access. Perfect for researche
 ## 📫 Let's Connect
 - 💬 Open an issue or start a discussion in any repository
 - 🐙 Follow me on [GitHub](https://github.com/xemarap) for updates
-- 💼 Connect with me on LinkedIn *(add your profile link if desired)*
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/emanuelraptis/)
 
 *Always open to collaboration and feedback!*
 
