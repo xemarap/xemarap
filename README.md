@@ -6,7 +6,7 @@ I'm a Data Scientist at the Regional Development department at Region Stockholm,
 ## 🛠️ Tech Stack
 **Languages:** Python (primary) • R (proficient)  
 **Data Science:** Pandas • NumPy • Scikit-learn • Matplotlib/Seaborn • Jupyter  
-**AI/ML:** LangChain • HuggingFace • OpenAI API • Pydantic  
+**AI/ML:** LangChain • HuggingFace • OpenAI API • Anthropic API • Pydantic  
 **Databases:** ChromaDB  
 
 ## 🚀 Featured Projects
