@@ -15,7 +15,7 @@ I'm a Data Scientist at the Regional Development department at Region Stockholm,
 Streamline access to Swedish statistical data with this Python wrapper for Statistics Sweden's PxWebAPI 2.0. Makes complex government datasets simple to work with.
 
 ### [eustatspy](https://github.com/xemarap/eustatspy)
-A Python wrapper for the Eurostat APIs, providing easy access to European statistical data.
+A Python wrapper for the Eurostat statistics and catalogue APIs, providing easy access to European statistical data.
 
 ### [koladapy](https://github.com/xemarap/koladapy)  
 Unlock Swedish municipality insights with easy API access. Perfect for researchers and analysts working with local government data.
