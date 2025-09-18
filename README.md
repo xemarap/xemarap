@@ -18,7 +18,7 @@ I'm a Data Scientist at the Regional Development department at Region Stockholm,
 </picture>
 
 
-My `get_data_as_dataframe()` project aims too vastly simplify how data scientists, data engineers, analysts, statisticians and users can use publicly available API's to download open data directly to their environments and start analyzing the data immediately. That's why my featured Python API wrappers comes down to using the `get_Data_as_dataframe()` function for retrieving the data as a dataframe.
+My `get_data_as_dataframe()` project aims to vastly simplify how data scientists, data engineers, analysts, statisticians and users can use publicly available API's to download open data directly to their environments and start analyzing the data immediately. That's why my featured Python API wrappers comes down to using the `get_Data_as_dataframe()` function for retrieving the data as a dataframe.
 
 ### [pxstatspy](https://github.com/xemarap/pxstatspy)
 Streamline access to Swedish statistical data with this Python wrapper for Statistics Sweden's PxWebAPI 2.0. Makes complex government datasets simple to work with.
