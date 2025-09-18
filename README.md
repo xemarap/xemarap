@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm xemarap!
 
 ## 👨‍💻 About Me
@@ -11,6 +12,14 @@ I'm a Data Scientist at the Regional Development department at Region Stockholm,
 
 ## 🚀 Featured Projects
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="gdad_dark.png">
+  <img alt="Company Logo" src="gdad_light.png" width="350">
+</picture>
+
+
+My `get_data_as_dataframe()` project aims too vastly simplify how data scientists, data engineers, analysts, statisticians and users can use publicly available API's to download open data directly to their environments and start analyzing the data immediately. That's why my featured Python API wrappers comes down to using the `get_Data_as_dataframe()` function for retrieving the data as a dataframe.
+
 ### [pxstatspy](https://github.com/xemarap/pxstatspy)
 Streamline access to Swedish statistical data with this Python wrapper for Statistics Sweden's PxWebAPI 2.0. Makes complex government datasets simple to work with.
 
@@ -19,6 +28,9 @@ A Python wrapper for the Eurostat statistics and catalogue APIs, providing easy 
 
 ### [koladapy](https://github.com/xemarap/koladapy)  
 Unlock Swedish municipality insights with easy API access. Perfect for researchers and analysts working with local government data.
+
+### [trafapy](https://github.com/xemarap/trafapy)  
+A comprehensive Python package for accessing and analyzing Swedish transport statistics through the Trafikanalys API.
 
 ## ✨ What You'll Find Here
 📊 **Data-driven solutions** for real-world problems  
