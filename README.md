@@ -41,6 +41,7 @@ A comprehensive Python package for accessing and analyzing Swedish transport sta
 ## 📫 Let's Connect
 - 💬 Open an issue or start a discussion in any repository
 - 🐙 Follow me on [GitHub](https://github.com/xemarap) for updates
+- 📊 Check out some of my data science and analytics projects on [Kaggle](https://www.kaggle.com/emanuelraptis)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/emanuelraptis/)
 
 *Always open to collaboration and feedback!*
